@@ -1,4 +1,2 @@
-# HashMap
-# double hashing 
-# Java
-# generic
+# Generic HashMap
+ double hashing 
